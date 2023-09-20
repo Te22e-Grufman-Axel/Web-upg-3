@@ -11,3 +11,12 @@ body{
    background-size: cover;
   
 }
+div{
+    background-color: grey;
+    padding:10px;
+    margin: 15PX;
+}
+h2
+{
+    text-align: center;
+}
